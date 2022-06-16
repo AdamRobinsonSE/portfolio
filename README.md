@@ -3,7 +3,7 @@ Portfolio site including links to my porjects and ways to get in contact with me
 
 https://www.adamrobinsonse.com/
 
-![alt tag]https://github.com/AdamRobinsonSE/portfolio/blob/main/readme-screenshot.PNG
+![alt tag](https://github.com/AdamRobinsonSE/portfolio/blob/main/readme-screenshot.PNG)
 
 ## How It's Made:
 
