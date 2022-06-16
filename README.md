@@ -1,7 +1,7 @@
 # My Portfolio
 Portfolio site including links to my porjects and ways to get in contact with me.
 
-**Link to project:** https://www.adamrobinsonse.com/
+https://www.adamrobinsonse.com/
 
 ![alt tag](http://placecorgi.com/1200/650)
 
