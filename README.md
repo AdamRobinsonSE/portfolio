@@ -12,7 +12,6 @@ https://www.adamrobinsonse.com/
 My learning was focused on makng a simple, clean, and responsive site.
 
 ## Optimizations
-*(optional)*
 
 When I improve this project I want to add gifs as the projects opposed to static images
 
