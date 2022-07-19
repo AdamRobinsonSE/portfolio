@@ -3,7 +3,7 @@ Portfolio site including links to my projects and ways to get in contact with me
 
 https://www.adamrobinsonse.com/
 
-![alt tag](https://github.com/AdamRobinsonSE/portfolio/blob/main/readme-screenshot.PNG)
+![alt tag](https://github.com/AdamRobinsonSE/portfolio/blob/main/images/readme-screenshot.PNG)
 
 ## How It's Made:
 
@@ -12,7 +12,6 @@ https://www.adamrobinsonse.com/
 My learning was focused on makng a simple, clean, and responsive site.
 
 ## Optimizations
-*(optional)*
 
 When I improve this project I want to add gifs as the projects opposed to static images
 
